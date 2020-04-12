@@ -36,7 +36,7 @@
 
 <h3>Как запустить программу</h3>
  <ol>
- <li>Загрузить репозиторий с [Гита](https://github.com/bodyaswag/weatherBodyabottg/)</li>
+ <li>Загрузить репозиторий с https://github.com/bodyaswag/weatherBodyabottg/</li>
  <li>Открыть и запустить проект в редакторе кода</li>
  <li>Открыть мессенджер Telegram и найти в поиске @weatherBodyabot</li>
  <li>Взаимодействовать с ботом</li>
